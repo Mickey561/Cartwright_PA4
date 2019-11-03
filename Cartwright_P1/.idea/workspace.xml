@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e88c4773-7c42-42bb-b6d6-8cc3c21397ae" name="Default Changelist" comment="" />
+    <list default="true" id="525c139a-04b7-48b0-93c2-3d7553579a5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cartwright_P2/src/DuplicateCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA3/Cartwright_P1/Cartwright_P1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA3/Cartwright_P2/Cartwright_P2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cartwright_P1/Cartwright_P1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cartwright_P1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cartwright_P2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cartwright_P2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cartwright_P2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cartwright_P2/out/production/Cartwright_P2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cartwright_P2/out/production/Cartwright_P2/SavingsAccountTEST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cartwright_P2/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cartwright_P2/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cartwright_P2/src/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +31,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SMAVW1lX1tGFP8oAUFe5FK40GK" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T5BlKPVtbjqhvABAO82jOBM1Ay" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
@@ -33,31 +54,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Cartwright_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cartwright_P1" />
-      <module name="Cartwright_P1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Cartwright_P1" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e88c4773-7c42-42bb-b6d6-8cc3c21397ae" name="Default Changelist" comment="" />
-      <created>1571363114561</created>
+      <changelist id="525c139a-04b7-48b0-93c2-3d7553579a5a" name="Default Changelist" comment="" />
+      <created>1572740227239</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571363114561</updated>
+      <updated>1572740227239</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
